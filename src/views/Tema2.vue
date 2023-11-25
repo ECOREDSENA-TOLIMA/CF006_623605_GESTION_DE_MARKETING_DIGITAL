@@ -1,11 +1,323 @@
 <template lang="pug">
-.curso-main-container.pb-3
+.curso-main-container.pb-3.tema2
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 La estrategia creativa 
+
+    p La comunicación es una de las bases fundamentales de la publicidad, por lo cual la estrategia creativa, permite establecer la forma en la que se construye el mensaje publicitario y los medios o canales más idóneos para darlo a conocer. 
+    p En esta etapa de la construcción o planeación de la campaña publicitaria, se requiere la creatividad de los publicistas, debido a que no es solo un mensaje lo que se busca transmitir; se busca conectar con el consumidor, y llegar a su parte más emocional, el mensaje transmitido debe causar impacto y permitir lograr los objetivos de la campaña. 
+    p.mb-5 La construcción de la estrategia debe ir acompañada por una planeación por lo cual es indispensable conocer las diferentes fases las cuales son planeación estratégica, táctica y operativa como se describen a continuación:
+
+    .row.mb-4
+      .col-4.col-ipad.mb-4
+        img(src='@/assets/curso/temas/tema2/img-1.png').mb-0
+        .tarjeta--azul.p-4(style="background-color: #E4FDFB")
+          h3 Planeación estratégica 
+          p Planificar el futuro, por lo cual aquí se crea la visión de lo que se desea lograr, acorde al entorno externo e interno e identificando las necesidades de los consumidores; Realizar estudio de mercado y definir la visión, objetivos y metas. 
+      
+      .col-4.col-ipad.mb-4
+        img(src='@/assets/curso/temas/tema2/img-2.png').mb-0
+        .tarjeta--azul.p-4(style="background-color: #E4FDFB")
+          h3 Planeación táctica 
+          p Permite establecer los objetivos específicos y las metas, una vez se ha realizado la planeación estratégica, esta fase se realiza por procesos, de los cuales se desprenden planes concretos. 
+
+      .col-4.mb-5.col-ipad
+        img(src='@/assets/curso/temas/tema2/img-3.png').mb-0
+        .tarjeta--azul.p-4(style="background-color: #E4FDFB")
+          h3 Planeación operativa 
+          p Se encarga de definir los objetivos y metas a corto plazo, caracterizar los productos o servicios, adoptar políticas comerciales y de ventas, establecer los precios, definir los canales de distribución, planear las campañas publicitarias, y elaborar el presupuesto. 
+
+    p.mb-4 Dentro de la estrategia creativa se debe tener en cuenta también, el tipo de mensaje que se va a transmitir, el tono y la idea. Los mensajes publicitarios son los que se transmiten mediante las plataformas digitales, con la finalidad de comunicar al consumidor, estos mensajes van acompañados de textos, gráficos, imágenes, audios o videos; por lo cual los tipos de mensajes publicitarios se pueden clasificar en: 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10(data-aos="fade-down-right")
+        .tarjeta.tarjeta.p-4.mt-4(style="background-color:#E3ECF7")(data-aos="flip-up")
+          .row.justify-content-center.align-items-center 
+            .col-lg-4.mb-3
+              figure(data-aos="fade-right")
+                img(src='@/assets/curso/temas/tema2/decorador-1.svg', alt='Texto que describa la imagen')
+            .col-lg-3
+              ul.lista-ul.mb-3
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Textuales
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Mixtos
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Audiovisuales
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Radiales
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Anuncios digitales 
+
+    p.mb-5
+
+    Separador 
+
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.1  Objetivo 
+
+    .row.mb-5
+      .col-md-7
+        p Dentro del marketing digital y la publicidad, la principal finalidad es comunicar, transmitir un mensaje, en el cual se potencialice las características y beneficios de un producto o servicio; por lo cual este mensaje debe ser creado de la forma más creativa e innovadora, lo que permitirá cautivar al consumidor. 
+        p El principal objetivo de la estrategia creativa es fortalecer la comunicación entre la organización, la marca y los consumidores, logrando que el retorno de la inversión en la campaña publicitaria, sea la esperada; por lo cual es fundamental basar las campañas en la planeación estratégica y táctica,  debido a que estas permiten identificar la visión que tiene la empresa a largo y mediano plazo; y de esta forma poder implementar la estrategia operativa, mediante proyectos de campañas publicitarias que permita lograr los objetivos y metas a corto plazo. 
+
+      .col-md-5
+        figure
+          img(src='@/assets/curso/temas/tema2/img-4.png', alt='Imagen decorativa')
+
+    Separador 
+
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.2  Técnicas de creatividad      
+
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-5.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 En esta era digital y de globalización que envuelve a las organizaciones, se hace indispensable que sus equipos sean interdisciplinarios, pero también que gocen de gran creatividad e ingenio; debido a que el entorno es cambiante.
+          br
+          br
+          | Cada día las organizaciones deben de estar en constante cambio, debido a que así lo exige el mercado.  Los consumidores, la competencia, la tecnología y la comunicación, han acelerado estos cambios; por lo cual los equipos de trabajo deben de ser creativos para dar solución a los retos que enfrentan las organizaciones. 
+
+    p.mb-5 Las técnicas creativas, permiten a los equipos de trabajo dar solución a las necesidades de las organizaciones de forma creativa e ingeniosa, mediante la generación de ideas, lo que permite potencializar los resultados; por lo cual estas técnicas creativas se enfocan en: 
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-10(data-aos="fade-down-right")
+        .cajon.color-secundario.p-4(style="background-color:#FFFBE5")
+          ul.lista-ul.mb-3
+            li.mb-0
+              i.fas.fa-circle(style="color:#000")
+              | Identificar o comprender los problemas que se presentan en la organización o el entorno. 
+            li.mb-0
+              i.fas.fa-circle(style="color:#000")
+              | Fabricar nuevas ideas, lo que permite generar nuevos productos, servicios o innovaciones para la organización.
+
+    p.mb-5 Con el fin de identificar las problemáticas o fabricar nuevas ideas creativas se ha desarrollado diferentes técnicas para ser implementadas dentro de los equipos de trabajo, de la siguiente forma: 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10(data-aos="fade-down-right")
+        LineaTiempoD.color-primario
+          .row(numero="1" titulo="<em>Brainstorming</em>")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small En equipos de trabajo por lo general mínimo 6 y máximo 12 integrantes, generan ideas en un periodo de tiempo, por lo general una hora; esta técnica también es conocida como tormenta de ideas; es indispensable que los grupos o equipos sean interdisciplinarios o de diferentes áreas o especialidad en las organizaciones. 
+                  
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-md-10.col-lg-12
+                figure
+                  img(src='@/assets/curso/temas/tema2/img-6.png', alt='Texto que describa la imagen')
+
+          .row(numero="2" titulo="<em>Brainwritting</em>")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small Es una técnica de creatividad similar a la tormenta de ideas, se diferencia en que cada integrante de los grupos escribe sus ideas, para ser socializadas posteriormente. Se suele realizar ideas con diferentes grupos de los niveles jerárquicos de la organización.  
+
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-md-10.col-lg-12
+                figure
+                  img(src='@/assets/curso/temas/tema2/img-7.png', alt='Texto que describa la imagen')
+
+          .row(numero="3" titulo="Provocación")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small Esta técnica de creatividad, se identifica por que los integrantes de los equipos o grupos de trabajo, deben lanzar ideas que no tienen sentido, lo que estimula la creación de ideas originales; un ejemplo puede ser el cielo es amarillo, el caballo es verde, la silla tiene dos patas. 
+
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-md-10.col-lg-12
+                figure
+                  img(src='@/assets/curso/temas/tema2/img-8.png', alt='Texto que describa la imagen')
+          
+          .row(numero="4" titulo="Atributos")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small Es una técnica de creatividad que consiste en tres pasos, en el primero se caracterizan los productos, servicios o marca, es indispensable resaltar los atributos; posteriormente se analiza y evalúa cada característica y atributo, para generar ideas, de cómo se puede mejorar; y por último se selecciona la mejor idea. 
+
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-md-10.col-lg-12
+                figure
+                  img(src='@/assets/curso/temas/tema2/img-9.png', alt='Texto que describa la imagen')
+          
+          .row(numero="5" titulo="<em>Scamper</em>")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small La palabra <em>scamper</em> reúne las palabras: sustituir, combinar, adaptar, modificar, proponer, eliminar, reinvertir; por lo cual para implementarla se deben generar ideas que se adapten a estas necesidades del <em>scamper</em> y permitan realizar mejoras a los productos o servicios.
+
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-md-10.col-lg-12
+                figure
+                  img(src='@/assets/curso/temas/tema2/img-10.png', alt='Texto que describa la imagen')
+
+          .row(numero="6" titulo="PNI")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small El PNI al igual que el <em>scamper,</em> se encuentra representado por tres palabras: positivo, negativo e interesante; y se emplea para evaluar las ideas que se han generado por los equipos o grupos de trabajo.  
+
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-md-10.col-lg-12
+                figure
+                  img(src='@/assets/curso/temas/tema2/img-11.png', alt='Texto que describa la imagen')
+          
+          .row(numero="7" titulo="<em>Mind Map</em>")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small Permite generar ideas de una forma ordenada, en la cual se asocia cada idea, a una idea o problema central. 
+
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-md-10.col-lg-12
+                figure
+                  img(src='@/assets/curso/temas/tema2/img-12.png', alt='Texto que describa la imagen')
+
+    Separador 
+    
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.3  Teoría del arte 
+
+    .row.mb-5
+      .col-md-5.mb-3
+        figure
+            img(src='@/assets/curso/temas/tema2/img-13.png', alt='')
+      .col-md-7
+        .tarjeta.tarjeta.p-4(style="background-color:#FFFBE5")(data-aos="flip-up")
+          .row.justify-content-center.align-items-center
+            p Dinamizar campañas exitosas con el público objetivo indicado, los medios más funcionales y el equipo estratégico esperado se debe acompañar de creativos que tengan formación y entendimiento sobre el impacto del arte en los seres humanos, es por esta razón que se hace énfasis en el concepto de la teoría del arte  que  se encarga de estudiar las obras de arte; da un punto crítico de las obras, pero también, su interpretación de acuerdo a lo que ha querido expresar el autor, sobre las mismas; estas interpretaciones o puntos críticos que se dan de las obras, cobran un sentido desde el análisis que se realiza del contexto, en el cual fue desarrollada la obra. 
+            p Los contextos en los que se ha desarrollado la obra, se pueden decir dan vida a la misma, debido a que se desarrollan en una época, lugar, cultura y sociedad, con unas características definidas; por lo cual durante la historia de arte se han destacado dos épocas, la edad media y el renacimiento.
+
+    p En la edad media que va desde el siglo V al siglo XV, se ve de forma destacada la influencia de la iglesia y era quien financiaba la representación del arte, los cuales mantenían las características de la arquitectura romana, pero esta edad también tiene influencia del arte gótico. 
+    p.mb-5 En la época del renacimiento, que se da en la época medieval en el siglo XIV; en el cual se introduce la pintura en óleo en las obras de la edad media, y se empieza a desplazar algunas crecías de la iglesia. Dentro de las principales teorías del arte se encuentra:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 1.] <em>principales teorías del arte</em>
+        figure
+          img.mb-3(src='@/assets/curso/temas/tema2/img-14-1.svg', alt='En la figura 1 se muestran las principales teorías del arte, como lo son: biográfica, estructuralista, formalista , iconológica, psicológica y sociológica.')
+
+    .row.mt-5.mb-2
+      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 1.] <em>principales teorías del arte</em>
+        figure
+          img(src='@/assets/curso/temas/tema2/img-14-2.svg', alt='En la figura 1 se muestran las principales teorías del arte, como lo son: biográfica, estructuralista, formalista , iconológica, psicológica y sociológica.') 
+
+    p.mb-5 La teoría del arte se caracteriza por ser una representación artística de acuerdo al contexto cultural, social o de la época, el cual se manifiesta en pinturas, obras literarias, música, teatro, escultura, entre otros. Las cuales son obras innovadoras, que expresan creatividad y originalidad; por lo cual son piezas únicas.
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-10(data-aos="fade-down-right")
+        .cajon.color-secundario.p-4(style="background-color:#FFFBE5")
+          p El arte es una expresión humana que comunica, por lo cual la teoría se encarga de interpretar lo que desean expresar los autores, sin embargo, también es subjetivo a la interpretación de cada individuo.  
+
+    p.mb-5
+
+    Separador 
+
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.4  Innovación 
+
+    .row.mb-5
+      .col-md-4.mb-3
+        figure
+            img(src='@/assets/curso/temas/tema2/decorador-2.svg', alt='')
+      .col-md-8
+        p En un mundo moderno, envuelto por la era digital, ha obligado a las personas y a las organizaciones, a estar en constante cambio y evolución, por lo cual se han centrado en crear nuevos productos, servicios, marcas, estrategias o mejorar constantemente los existentes, con la finalidad de ir a la par del mundo globalizado, de los consumidores y los competidores.  El no innovar constantemente puede crear rezagos a las organizaciones y las podrían hacer desaparecer; como es el caso de las cámaras fotográficas que fueron reemplazadas por los dispositivos móviles. 
+        p Por lo cual innovar es utilizar el conocimiento, y generarlo si es necesario, para crear productos, servicios o procesos, que son nuevos para la empresa, o mejorar los ya existentes, consiguiendo con ello tener éxito en el mercado. (Manual de Oslo 1997)
+
+    p La innovación hace parte del área de I+D+I el cual es un sistema que se encarga de gestionar la investigación, el desarrollo tecnológico y la innovación, dentro de las organizaciones. 
+    p.mb-5 Se han identificado diferentes tipos de innovación, los cuales se aplican a las organizaciones como se explica a continuación:
+
+    TabsC.color-acento-botones.mb-5
+      .py-3.py-md-4(titulo="Innovación de productos y servicio")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema2/img-15.png', alt='Texto que describa la imagen')
+
+          .col-md-6
+            p Se centra en la creación o modificación de productos o servicios, los cuales deben de ir encaminados a las necesidades de los consumidores y de las organizaciones. Pueden existir nuevas creaciones como la de los celulares, pero también modificaciones, las cuales las vemos en cada versión de los dispositivos móviles.
+            
+      .py-3.py-md-4(titulo="Innovación en los procesos y procedimientos")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema2/img-16.png', alt='Texto que describa la imagen')
+
+          .col-md-6
+            p Se relacionan con las áreas funcionales de las organizaciones, las cuales van desde la búsqueda de proveedores, fabricación de productos, prestación de un servicio o los medios logísticos de distribución.  Un claro ejemplo es el servicio de atención al cliente, el cual ha evolucionado de la atención personal a la inteligencia artificial.  
+
+      .py-3.py-md-4(titulo="Innovación de marketing")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema2/img-17.png', alt='Texto que describa la imagen')
+
+          .col-md-6
+            p Sin lugar a duda, el marketing ha sufrido grandes cambios con la nueva era digital, las organizaciones han innovado constantemente, para estar presente en los medios digitales y ganar esta porción del mercado. 
+      
+      .py-3.py-md-4(titulo="Innovación organizacional")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema2/img-18.png', alt='Texto que describa la imagen')
+
+          .col-md-6
+            p La innovación organizacional, trata de los nuevos diseños o estructuras organizacionales.
+
+    p.mb-5 La innovación se caracteriza por el requerir adelantar una acción eso quiere decir, fabricar o modificar un producto o proceso, con la finalidad de satisfacer las necesidades de los consumidores, estos procesos innovadores deben ser sostenibles en el tiempo y por lo general tener una utilidad para la población.  
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>características de la innovación</em>
+        figure
+          img.mb-3(src='@/assets/curso/temas/tema2/img-19-1.svg', alt='En la figura 2. se muestran las características de la innovación: creación, modificaciones, mejoras, soluciones, simplicidad y adaptable.')
+
+    .row.mt-5.mb-2
+      .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>características de la innovación</em>
+        figure
+          img(src='@/assets/curso/temas/tema2/img-19-2.svg', alt='En la figura 2. se muestran las características de la innovación: creación, modificaciones, mejoras, soluciones, simplicidad y adaptable.') 
+
+    p.mb-4 Por su parte las empresas se ven obligadas a innovar debido a algunas características del entorno, ya sea interno o externo, a lo que se denominan fuentes las cuales pueden ser: 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10(data-aos="fade-down-right")
+        .tarjeta.tarjeta.p-4.mt-4(style="background-color:#E3ECF7")(data-aos="flip-up")
+          .row.justify-content-center.align-items-center 
+            .col-lg-3.mb-3
+              figure(data-aos="fade-right")
+                img(src='@/assets/curso/temas/tema2/decorador-3.svg', alt='Texto que describa la imagen')
+            .col-lg-8
+              ul.lista-ul.mb-3
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Sucesos que suceden de sorpresa como consecuencia del éxito    o también del fracaso 
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Inconvenientes 
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Necesidad de cambios en proceso so procedimientos
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Cambios en la industria
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Cambios en los consumidores
+                li.mb-0
+                  i.fas.fa-circle(style="color:#33ECE0")
+                  | Nuevos avances en la ciencia o tecnología
+
+
+
+
+
+
+
+
+
+
 
 </template>
 
