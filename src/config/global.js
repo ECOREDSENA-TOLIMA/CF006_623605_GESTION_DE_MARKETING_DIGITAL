@@ -1,6 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'La campaña publicitaria en medios digitales',
+    componenteFormativo:
+      'Diseño de la campaña publicitaria en medios digitales',
     descripcionCurso:
       'El componente formativo permitirá apropie conocimientos respecto a la publicidad digital, las estrategias creativas, las campañas publicitarias digitales y el <em>insight</em> publicitario; aplicables en todos los campos y diferentes tipos de organizaciones que desean generar valor de marca a través del <em>marketing</em> digital.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
