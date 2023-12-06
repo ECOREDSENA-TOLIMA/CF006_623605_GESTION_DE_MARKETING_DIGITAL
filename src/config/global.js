@@ -1,9 +1,8 @@
 export default {
   global: {
-    componenteFormativo:
-      'Diseño de la campaña publicitaria en medios digitales',
+    componenteFormativo: 'La campaña publicitaria en medios digitales',
     descripcionCurso:
-      'El componente formativo permitirá apropie conocimientos respecto a la publicidad digital, las estrategias creativas, las campañas publicitarias digitales y el <em>insight</em> publicitario; aplicables en todos los campos y diferentes tipos de organizaciones que desean generar valor de marca a través del <em>marketing</em> digital.',
+      'El componente formativo permitirá que apropie conocimientos respecto a la publicidad digital, las estrategias creativas, las campañas publicitarias digitales y el <em>insight</em> publicitario; aplicables en todos los campos y diferentes tipos de organizaciones que desean generar valor de marca a través del <em>marketing</em> digital.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -213,7 +212,7 @@ export default {
     {
       termino: 'Campañas Publicitaria Digital',
       significado:
-        'Estrategia de marketing digital, que busca dar a conocer un producto, servicio o marca, en medios digitales.',
+        'Estrategia de <em>marketing</em> digital, que busca dar a conocer un producto, servicio o marca, en medios digitales.',
     },
     {
       termino: 'Estrategia creativa',
@@ -221,28 +220,28 @@ export default {
         'Permite establecer la forma en la que se construye el mensaje publicitario y los medios o canales más idóneos para darlo a conocer.',
     },
     {
+      termino: 'Estrategia de marca',
+      significado:
+        'Plan o estrategias que emplean las organizaciones para impulsar o generar valor de marca.',
+    },
+    {
       termino: '<em>Insight</em>',
       significado:
         'Consiste en investigar e indagar, lo que internamente sienten los consumidores.',
     },
     {
-      termino: 'Marketing Digital',
-      significado:
-        'Plan o estrategias que emplean las organizaciones para impulsar o generar valor de marca.',
-    },
-    {
-      termino: 'Publicidad digital',
-      significado:
-        'Es una estrategia de marketing implementada en medios digitales, con el fin de dar a conocer un producto, servicio o marca.',
-    },
-    {
-      termino: 'Marketing Digital',
+      termino: '<em>Marketing</em> Digital',
       significado:
         'Son las estrategias de mercadotecnia implementada en plataformas digitales.',
     },
     {
+      termino: 'Publicidad digital',
+      significado:
+        'Es una estrategia de <em>marketing</em> implementada en medios digitales, con el fin de dar a conocer un producto, servicio o marca.',
+    },
+    {
       termino: 'Redes sociales',
-      significado: 'Comunidad de personas que se forman en internet',
+      significado: 'Comunidad de personas que se forman en internet.',
     },
     {
       termino: 'Sitio Web',
@@ -257,8 +256,8 @@ export default {
   referencias: [
     {
       referencia:
-        'Núñez Gómez, P., & Ruiz San Román, J. A. (2021). Presencia de influencers en campañas publicitarias digitales. Estudio de su capacidad persuasiva y efectividad en jóvenes. Universidad Complutense de Madrid.',
-      link: '',
+        'Méndez, Jorge. (22 de mayo de 2016). Brief o Briefing de marketing - Qué es y cómo hacer uno. YouTube.',
+      link: 'https://www.youtube.com/watch?v=6vlN4DZVQGc',
     },
     {
       referencia:

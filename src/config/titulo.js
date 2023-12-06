@@ -1,1 +1,1 @@
-module.exports = 'Diseño de la campaña publicitaria en medios digitales'
+module.exports = 'La campaña publicitaria en medios digitales'

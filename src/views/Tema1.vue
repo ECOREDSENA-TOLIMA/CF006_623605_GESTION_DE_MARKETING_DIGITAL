@@ -9,8 +9,8 @@
 
     .row.mb-5
       .col-md-9
-        p Según Kotler y Keller (2012), el mercadeo busca la identificación y satisfacción de las necesidades del ser humano de forma rentable. La empresa eBay, al reconocer que sus clientes no podían ubicar unos artículos deseados por ellos, se dio a la tarea de crear un foro para atenderlos de manera online. La empresa IKEA, al darse cuenta de que sus clientes deseaban buenos muebles con precios más bajos, ajusto sus costos. Las dos empresas entendieron el mercadeo y la inteligencia de marketing, convirtiendo una necesidad individual o social en una oportunidad empresarial que dio como resultado su rentabilidad.
-        p Para ampliar el concepto de mercado, el siguiente video detalla elementos de valor y aporte para este ítem. 
+        p Con la evolución de los medios tecnológicos y de comunicación, las organizaciones se han visto en la necesidad de transformar la manera en que se comunican con los consumidores. Como resultado, las estrategias de marketing han experimentado un cambio significativo, moviéndose de enfoques tradicionales a estrategias digitales. Esta transformación ha llevado a que las organizaciones estén cada vez más presentes en el mundo digital.
+        p La publicidad es una de las estrategias del <em>marketing,</em> que tiene como finalidad divulgar los productos, servicios o marca, para que sean conocidos y de esta forma adquiridos por los consumidores; dentro de los tipos de publicidad se encuentran:
 
       .col-md-3
         figure
@@ -59,7 +59,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Tipos y canales
 
-    p.mb-4 A la hora de estructurar o realizar la ideación de un plan publicitario en medios digitales, se debe realizar un estudio previo de tipos de publicidad digital y los canales por el cual se divulgará el contenido, la elección del más favorable para la organización, dependerá del estudio de mercado, el cual deberá arrojar los canales digitales más usados por el consumidor esperado.
+    p.mb-4 A la hora de estructurar o realizar la ideación de un plan publicitario en medios digitales, se debe realizar un estudio previo de tipos de publicidad digital y los canales por los que se divulgará el contenido, la elección del más favorable para la organización, dependerá del estudio de mercado, que proporcionará los canales digitales más usados por el consumidor esperado.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10(data-aos="fade-down-right")
@@ -76,7 +76,7 @@
       SlyderB.mb-5(:datos="datosSlyder")
 
     p Para que una campaña publicitaria en medios digitales sea exitosa, las organizaciones deben realizar su correcta estructuración, ideación y planificación; un plan de medios digitales permite establecer las estrategias para dar a conocer un producto, servicio o marca y estar más cerca a los consumidores.
-    p La planeación de la campaña publicitaria, debe estar basada en unos objetivos claros a alcanzar, así como tener en cuenta los recursos con los que cuenta para lograrlos; por lo cual los planes de medios digitales; se han convertido en una de las herramientas fundamentales del marketing digital.
+    p La planeación de la campaña publicitaria, debe estar basada en unos objetivos claros a alcanzar, así como tener en cuenta los recursos con los que cuenta para lograrlos; por lo cual los planes de medios digitales; se han convertido en una de las herramientas fundamentales del <em>marketing</em> digital.
     p.mb-5 Para estructurar un plan de medios digitales las organizaciones deben tener en cuenta las siguientes etapas: 
 
     .BGIMG03.p-4
@@ -182,7 +182,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Características
 
-    p La publicidad digital se caracteriza principalmente por dar a conocer o promocionar un producto, servicio o marca, en las diferentes plataformas o medios digitales; mediante el uso de internet a través de dispositivos móviles como computadores, Tablet o celulares. 
+    p La publicidad digital se caracteriza principalmente por dar a conocer o promocionar un producto, servicio o marca, en las diferentes plataformas o medios digitales; mediante el uso de internet a través de dispositivos móviles como computadores, tabletas o celulares. 
     p.mb-5 Dentro de las principales características de la publicidad digital se encuentran las siguientes:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")

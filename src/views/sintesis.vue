@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 El siguiente mapa conceptual, permite abordar desde su síntesis el componente formativo de la campaña publicitaria en los medios digitales, y cada uno de los elementos y ejes estratégicos que la integran todos ellos enmarcados en procesos de innovación y creatividad.
+    p.mb-5 En el componente formativo la campaña publicitaria en medios digitales, se aborda de manera integral el proceso de la publicidad digital, comenzando con una exploración de sus tipos y canales, así como sus beneficios y características distintivas. Luego, se profundiza en la importancia de la estrategia creativa, desglosando objetivos, técnicas de creatividad, teoría del arte e innovación. La campaña publicitaria digital se presenta como un elemento clave, analizando el <em>brief</em> publicitario, objetivos específicos, factores claves, tipos de campañas, y las diferentes etapas del proceso. Además, se destaca la relevancia del <em>insight</em> publicitario, detallando sus ventajas, importancia, y proporcionando pasos específicos para definirlo con eficacia.
 
     .row.justify-content-center
       .col-lg-10.mb-5

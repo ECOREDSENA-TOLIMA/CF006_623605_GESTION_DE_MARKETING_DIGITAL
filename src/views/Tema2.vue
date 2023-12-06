@@ -9,7 +9,7 @@
 
     p La comunicación es una de las bases fundamentales de la publicidad, por lo cual la estrategia creativa, permite establecer la forma en la que se construye el mensaje publicitario y los medios o canales más idóneos para darlo a conocer. 
     p En esta etapa de la construcción o planeación de la campaña publicitaria, se requiere la creatividad de los publicistas, debido a que no es solo un mensaje lo que se busca transmitir; se busca conectar con el consumidor, y llegar a su parte más emocional, el mensaje transmitido debe causar impacto y permitir lograr los objetivos de la campaña. 
-    p.mb-5 La construcción de la estrategia debe ir acompañada por una planeación por lo cual es indispensable conocer las diferentes fases las cuales son planeación estratégica, táctica y operativa como se describen a continuación:
+    p.mb-5 La construcción de la estrategia debe ir de la mano con una planificación adecuada. Es fundamental comprender las diversas fases que se encuentran, planificación estratégica, táctica y operativa. Estas se describen detalladamente a continuación:
 
     .row.mb-4
       .col-4.col-ipad.mb-4
@@ -66,8 +66,8 @@
 
     .row.mb-5
       .col-md-7
-        p Dentro del marketing digital y la publicidad, la principal finalidad es comunicar, transmitir un mensaje, en el cual se potencialice las características y beneficios de un producto o servicio; por lo cual este mensaje debe ser creado de la forma más creativa e innovadora, lo que permitirá cautivar al consumidor. 
-        p El principal objetivo de la estrategia creativa es fortalecer la comunicación entre la organización, la marca y los consumidores, logrando que el retorno de la inversión en la campaña publicitaria, sea la esperada; por lo cual es fundamental basar las campañas en la planeación estratégica y táctica,  debido a que estas permiten identificar la visión que tiene la empresa a largo y mediano plazo; y de esta forma poder implementar la estrategia operativa, mediante proyectos de campañas publicitarias que permita lograr los objetivos y metas a corto plazo. 
+        p En el ámbito del marketing digital y la publicidad, el objetivo primordial es comunicar y transmitir un mensaje que resalte las características y beneficios de un producto o servicio. Este mensaje debe ser concebido de manera creativa e innovadora, lo que posibilitará cautivar al consumidor.
+        p El principal objetivo de la estrategia creativa es fortalecer la comunicación entre la organización, la marca y los consumidores, logrando que el retorno de la inversión en la campaña publicitaria, sea la esperada; por lo tanto es fundamental basar las campañas en la planeación estratégica y táctica,  debido a que estas permiten identificar la visión que tiene la empresa a largo y mediano plazo; y de esta forma poder implementar la estrategia operativa, mediante proyectos de campañas publicitarias que permita lograr los objetivos y metas a corto plazo. 
 
       .col-md-5
         figure
@@ -88,7 +88,7 @@
           br
           | Cada día las organizaciones deben de estar en constante cambio, debido a que así lo exige el mercado.  Los consumidores, la competencia, la tecnología y la comunicación, han acelerado estos cambios; por lo cual los equipos de trabajo deben de ser creativos para dar solución a los retos que enfrentan las organizaciones. 
 
-    p.mb-5 Las técnicas creativas, permiten a los equipos de trabajo dar solución a las necesidades de las organizaciones de forma creativa e ingeniosa, mediante la generación de ideas, lo que permite potencializar los resultados; por lo cual estas técnicas creativas se enfocan en: 
+    p.mb-5 Las técnicas creativas, permiten a los equipos de trabajo dar solución a las necesidades de las organizaciones de forma creativa e ingeniosa, mediante la generación de ideas, lo que permite potencializar los resultados. Estas técnicas creativas se enfocan en: 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
@@ -181,34 +181,34 @@
       .col-md-7
         .tarjeta.tarjeta.p-4(style="background-color:#FFFBE5")(data-aos="flip-up")
           .row.justify-content-center.align-items-center
-            p Dinamizar campañas exitosas con el público objetivo indicado, los medios más funcionales y el equipo estratégico esperado se debe acompañar de creativos que tengan formación y entendimiento sobre el impacto del arte en los seres humanos, es por esta razón que se hace énfasis en el concepto de la teoría del arte  que  se encarga de estudiar las obras de arte; da un punto crítico de las obras, pero también, su interpretación de acuerdo a lo que ha querido expresar el autor, sobre las mismas; estas interpretaciones o puntos críticos que se dan de las obras, cobran un sentido desde el análisis que se realiza del contexto, en el cual fue desarrollada la obra. 
-            p Los contextos en los que se ha desarrollado la obra, se pueden decir dan vida a la misma, debido a que se desarrollan en una época, lugar, cultura y sociedad, con unas características definidas; por lo cual durante la historia de arte se han destacado dos épocas, la edad media y el renacimiento.
+            p Dinamizar campañas exitosas con el público objetivo adecuado, los medios más efectivos y el equipo estratégico esperado requiere contar con creativos que posean formación y comprensión sobre el impacto del arte en los seres humanos. Es por esta razón que se enfatiza en el concepto de la teoría del arte, que se encarga de estudiar las manifestaciones artisticas. Esta teoría proporciona un análisis crítico de las obras, así como su interpretación de acuerdo a lo que el autor ha querido expresar. Estas interpretaciones o puntos críticos que surgen de las obras adquieren significado a través del análisis del contexto en el cual la obra fue desarrollada.
+            p Los contextos en los que se ha gestado una obra le confieren vida, ya que se desarrollan en una época, lugar, cultura y sociedad con características definidas. A lo largo de la historia del arte, han destacado dos épocas significativas: la Edad Media y el Renacimiento.
 
-    p En la edad media que va desde el siglo V al siglo XV, se ve de forma destacada la influencia de la iglesia y era quien financiaba la representación del arte, los cuales mantenían las características de la arquitectura romana, pero esta edad también tiene influencia del arte gótico. 
-    p.mb-5 En la época del renacimiento, que se da en la época medieval en el siglo XIV; en el cual se introduce la pintura en óleo en las obras de la edad media, y se empieza a desplazar algunas crecías de la iglesia. Dentro de las principales teorías del arte se encuentra:
+    p Durante la Edad Media, que abarca desde el siglo V hasta el siglo XV, se destaca la influencia prominente de la iglesia, la cual financiaba la representación del arte. Durante este período, se mantuvieron las características de la arquitectura romana, pero también se experimentó la influencia del arte gótico.
+    p.mb-5 En la época del Renacimiento, que se sitúa en el siglo XIV y representa un período de transición desde la Edad Media hasta la Edad Moderna, se introdujo la pintura al óleo, marcando un desplazamiento de algunas creencias de la iglesia. Entre las principales teorías del arte se encuentran:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 1.] <em>principales teorías del arte</em>
+          p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Principales teorías del arte</em>
         figure
           img.mb-3(src='@/assets/curso/temas/tema2/img-14-1.svg', alt='En la figura 1 se muestran las principales teorías del arte, como lo son: biográfica, estructuralista, formalista , iconológica, psicológica y sociológica.')
 
     .row.mt-5.mb-2
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 1.] <em>principales teorías del arte</em>
+          p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Principales teorías del arte</em>
         figure
           img(src='@/assets/curso/temas/tema2/img-14-2.svg', alt='En la figura 1 se muestran las principales teorías del arte, como lo son: biográfica, estructuralista, formalista , iconológica, psicológica y sociológica.') 
 
-    p.mb-5 La teoría del arte se caracteriza por ser una representación artística de acuerdo al contexto cultural, social o de la época, el cual se manifiesta en pinturas, obras literarias, música, teatro, escultura, entre otros. Las cuales son obras innovadoras, que expresan creatividad y originalidad; por lo cual son piezas únicas.
+    p.mb-5 La teoría del arte se distingue por ser una representación artística que se adapta al contexto cultural, social o de la época. Esta manifestación se refleja en diversas formas, como pinturas, obras literarias, música, teatro, escultura, entre otras. Estas obras son innovadoras y expresan creatividad y originalidad, convirtiéndolas en piezas únicas.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-5
       .col-10(data-aos="fade-down-right")
         .cajon.color-secundario.p-4(style="background-color:#FFFBE5")
           p El arte es una expresión humana que comunica, por lo cual la teoría se encarga de interpretar lo que desean expresar los autores, sin embargo, también es subjetivo a la interpretación de cada individuo.  
 
-    p.mb-5
+    p.mb-5 Dado el contexto proporcionado por la teoría del arte, surge otra disciplina conocida como artes aplicadas. Esta disciplina implica la incorporación del arte en la vida cotidiana, a incluir la creación de nuevos productos, piezas musicales, obras arquitectónicas, fotografía, artesanías y moda.
 
     Separador 
 
@@ -221,10 +221,10 @@
             img(src='@/assets/curso/temas/tema2/decorador-2.svg', alt='')
       .col-md-8
         p En un mundo moderno, envuelto por la era digital, ha obligado a las personas y a las organizaciones, a estar en constante cambio y evolución, por lo cual se han centrado en crear nuevos productos, servicios, marcas, estrategias o mejorar constantemente los existentes, con la finalidad de ir a la par del mundo globalizado, de los consumidores y los competidores.  El no innovar constantemente puede crear rezagos a las organizaciones y las podrían hacer desaparecer; como es el caso de las cámaras fotográficas que fueron reemplazadas por los dispositivos móviles. 
-        p Por lo cual innovar es utilizar el conocimiento, y generarlo si es necesario, para crear productos, servicios o procesos, que son nuevos para la empresa, o mejorar los ya existentes, consiguiendo con ello tener éxito en el mercado. (Manual de Oslo 1997)
+        p Innovar es utilizar el conocimiento, y generarlo si es necesario, para crear productos, servicios o procesos, que son nuevos para la empresa, o mejorar los ya existentes, consiguiendo con ello tener éxito en el mercado. (Manual de Oslo 1997)
 
-    p La innovación hace parte del área de I+D+I el cual es un sistema que se encarga de gestionar la investigación, el desarrollo tecnológico y la innovación, dentro de las organizaciones. 
-    p.mb-5 Se han identificado diferentes tipos de innovación, los cuales se aplican a las organizaciones como se explica a continuación:
+    p La innovación hace parte del área de I+D+I que es un sistema que se encarga de gestionar la investigación, el desarrollo tecnológico y la innovación, dentro de las organizaciones. 
+    p.mb-5 Se han identificado diferentes tipos de innovación, que se aplican a las organizaciones como se explica a continuación:
 
     TabsC.color-acento-botones.mb-5
       .py-3.py-md-4(titulo="Innovación de productos y servicio")
@@ -268,18 +268,18 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>características de la innovación</em>
+          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Características de la innovación</em>
         figure
           img.mb-3(src='@/assets/curso/temas/tema2/img-19-1.svg', alt='En la figura 2. se muestran las características de la innovación: creación, modificaciones, mejoras, soluciones, simplicidad y adaptable.')
 
     .row.mt-5.mb-2
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>características de la innovación</em>
+          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Características de la innovación</em>
         figure
           img(src='@/assets/curso/temas/tema2/img-19-2.svg', alt='En la figura 2. se muestran las características de la innovación: creación, modificaciones, mejoras, soluciones, simplicidad y adaptable.') 
 
-    p.mb-4 Por su parte las empresas se ven obligadas a innovar debido a algunas características del entorno, ya sea interno o externo, a lo que se denominan fuentes las cuales pueden ser: 
+    p.mb-4 Por su parte las empresas se ven obligadas a innovar debido a algunas características del entorno, ya sea interno o externo, a lo que se denominan fuentes, estas pueden ser: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10(data-aos="fade-down-right")
@@ -292,13 +292,13 @@
               ul.lista-ul.mb-3
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | Sucesos que suceden de sorpresa como consecuencia del éxito    o también del fracaso 
+                  | Sucesos que ocurren de sorpresa como consecuencia del éxito    o también del fracaso 
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
                   | Inconvenientes 
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | Necesidad de cambios en proceso so procedimientos
+                  | Necesidad de cambios en procesos o procedimientos
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
                   | Cambios en la industria
