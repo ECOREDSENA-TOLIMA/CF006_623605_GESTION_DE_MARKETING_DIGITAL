@@ -45,7 +45,7 @@
             img(src='@/assets/curso/temas/tema3/img-3.png', alt='')
       .col-md-8
         p Dentro de los objetivos del <em>marketing</em> digital, para dar a conocer un producto, servicio o marca, mediante la estrategia de creación de una campaña publicitaria, se debe tener en cuenta la hoja de ruta que indica el objetivo de la campaña; por lo cual en el <em>marketing</em> digital se conoce el <em>brief o briefing,</em> que le permite a las organizaciones crear una hoja de ruta entre la organización y las empresas de <em>marketing</em> o publicitarias. 
-        p En el dinámico mundo del <em>marketing,</em> el brief publicitario se erige como un elemento fundamental para la gestación y ejecución de campañas efectivas. Este documento estratégico, a menudo subestimado, actúa como el faro que orienta a los equipos de <em>marketing,</em> publicidad y creatividad hacia la consecución de objetivos específicos. 
+        p En el dinámico mundo del <em>marketing,</em> el <em>brief</em> publicitario se erige como un elemento fundamental para la gestación y ejecución de campañas efectivas. Este documento estratégico, a menudo subestimado, actúa como el faro que orienta a los equipos de <em>marketing,</em> publicidad y creatividad hacia la consecución de objetivos específicos. 
 
     p.mb-5 El <em>brief</em> publicitario es un compendio conciso que abarca los elementos fundamentales de una campaña publicitaria. Este documento esencial sirve como hoja de ruta para los profesionales del <em>marketing,</em> proporcionándoles información detallada sobre el producto o servicio, el público objetivo, los objetivos de la campaña y la propuesta única de venta. 
 
@@ -119,7 +119,7 @@
                 img(src='@/assets/curso/temas/tema3/decorador-1.svg', alt='Texto que describa la imagen')
 
           h3.text-center Negocios
-          p.text-small el <em>Briefting</em> de negocios detalla todo lo relacionado con la organización, como lo es historia, visión, misión, Objetivos y metas.
+          p.text-small El <em>Briefting</em> de negocios detalla todo lo relacionado con la organización, como lo es historia, visión, misión, objetivos y metas.
 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
         .tarjeta.color-secundario.p-4(style="background-color:#E3ECF7; height:100%")
@@ -129,7 +129,7 @@
                 img(src='@/assets/curso/temas/tema3/decorador-2.svg', alt='Texto que describa la imagen')
 
           h3.text-center <em>Marketing</em>
-          p.text-small el <em>Briefting</em> de marketing abarca todas las estrategias de <em>marketing</em> y los objetivos que se pretenden lograr.
+          p.text-small El <em>Briefting</em> de <em>marketing</em> abarca todas las estrategias de <em>marketing</em> y los objetivos que se pretenden lograr.
 
       .col-sm-6.col-lg-4.mb-4.mb-sm-0
         .tarjeta.color-acento-contenido.p-4(style="background-color:#E3ECF7; height:100%")
@@ -139,7 +139,7 @@
                 img(src='@/assets/curso/temas/tema3/decorador-3.svg', alt='Texto que describa la imagen')
 
           h3.text-center Creativo
-          p.text-small el <em>Briefting</em> creativo, está integrado por los diseños de la campaña publicitaria.
+          p.text-small El <em>Briefting</em> creativo, está integrado por los diseños de la campaña publicitaria.
 
     p Al comunicar el <em>brief</em> por parte de la organización a la agencia de <em>marketing,</em> se debe entender que se está suministrando información, por lo cual debe guardar una estructura.
     p.mb-5 Para que el <em>brief</em> sea claro y de fácil comprensión, es importante que contenga con mínimo los siguientes datos:
@@ -210,7 +210,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/decorador-4.svg', alt='Texto que describa la imagen')
           
-        h3.text-center Objetivo General
+        h3.text-center Objetivo general
         p Impulsar la marca “XXXX” de la empresa “XXXX” mediante la creación de una campaña publicitaria para aumentar en 10% las ventas.
 
       .col-md.tarjeta.color-secundario.p-5(style="background-color:#FFFBE5")
@@ -219,8 +219,8 @@
             figure
               img(src='@/assets/curso/temas/tema3/decorador-5.svg', alt='Texto que describa la imagen')
           
-        h3.text-center Objetivos Específicos
-        p Crear un brief publicitario para la nueva marca en los próximos dos (2) meses
+        h3.text-center Objetivos específicos
+        p Crear un <em>brief</em> publicitario para la nueva marca en los próximos dos (2) meses
         p Crear del proyecto de campaña publicitara en los próximos cinco (5) meses 
         p Ejecutar la campaña publicitaria en los canales digitales en los próximos seis (6) meses. 
         p Evaluar la campaña publicitaria de la nueva marca en un (1) año 
@@ -270,7 +270,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema3/img-13.svg' alt='AvatarTop')
-          p <strong>Campaña publicitaria de <em>marketing</em> digital en redes sociales:</strong> esta campaña publicitaria se caracteriza por hacer uso de las redes sociales, para publicitar como lo es Facebook, Instagram, Twitter, Snapchat, entre otras.
+          p <strong>Campaña publicitaria de <em>marketing</em> digital en redes sociales:</strong> esta campaña publicitaria se caracteriza por hacer uso de las redes sociales, para publicitar como lo es Facebook, Instagram, X, Snapchat, entre otras.
 
         .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
           .row.justify-content-center.mb-3
@@ -292,7 +292,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Publicidad nativa digital o <em>native advertising</em>
-            p Es el contenido digital de <em>marketing,</em> que se publicita en plataformas digitales que no son de su propiedad, es decir es un medio pagado; sin embargo, la característica principal de esta publicidad, es el diseño publicitario, debido a que este se adapta al entorno del sitio web en el cual se está publicitando. 
+            p Es el contenido digital de <em>marketing,</em> que se publicita en plataformas digitales que no son de su propiedad, es decir es un medio pagado; sin embargo, la característica principal de esta publicidad, es el diseño publicitario, debido a que este se adapta al entorno del sitio <em>web</em> en el cual se está publicitando. 
 
           .col-md-6.col-ipad
             figure
@@ -309,8 +309,8 @@
 
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 Social <em>ads</em>
-            p Es el empleo de las redes sociales con fines publicitarios dentro de las cuales se encuentran Facebook <em>ads,</em> Instagram <em>ads,</em> Twitter <em>ads,</em> YouTube <em>ads,</em> Snapchat <em>Ads,</em> Pinterest <em>ads,</em> LinkedIn <em>ads;</em> estas redes sociales permiten publicitar en sus espacios contenido digital como imágenes, textos, videos, audios. 
+            h3 <em>Social ads</em>
+            p Es el empleo de las redes sociales con fines publicitarios dentro de las cuales se encuentran Facebook <em>ads,</em> Instagram <em>ads,</em> X <em>ads,</em> YouTube <em>ads,</em> Snapchat <em>Ads,</em> Pinterest <em>ads,</em> LinkedIn <em>ads;</em> estas redes sociales permiten publicitar en sus espacios contenido digital como imágenes, textos, videos, audios. 
 
           .col-md-6.col-ipad
             figure
@@ -319,7 +319,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Retargeting online</em>
-            p Es la táctica de marketing digital, que permite o busca impactar con las campañas publicitarias a los consumidores actuales o los que ya interactuaron con la marca.
+            p Es la táctica de <em>marketing</em> digital, que permite o busca impactar con las campañas publicitarias a los consumidores actuales o los que ya interactuaron con la marca.
 
           .col-md-6.col-ipad
             figure
@@ -328,7 +328,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Search Engine Marketing</em> (SEM) o <em>marketing</em> en buscadores
-            p Es la táctica publicitaria realizada en buscadores, en la cual se pretende que un sitio web o página web, sea más visible para los consumidores, cuando ellos realizan búsquedas.
+            p Es la táctica publicitaria realizada en buscadores, en la cual se pretende que un sitio <em>web</em> o página <em>web,</em> sea más visible para los consumidores, cuando ellos realizan búsquedas.
 
           .col-md-6.col-ipad
             figure
@@ -358,7 +358,7 @@
    
         .col-lg-9.mb-4.mb-lg-0
           h3 Análisis
-          p En esta etapa se realiza un análisis detallado de la organización, la industria, los consumidores, la competencia y del plan de marketing online implementado por la organización. 
+          p En esta etapa se realiza un análisis detallado de la organización, la industria, los consumidores, la competencia y del plan de <em>marketing</em> online implementado por la organización. 
 
       .row(titulo="02")
         .col-lg-2.mb-2
@@ -385,7 +385,7 @@
    
         .col-lg-9.mb-4.mb-lg-0
           h3 Creación de la campaña publicitaria
-          p Con la ayuda de las agencias de marketing o equipo de marketing de la organización, se inicia con el diseño de la campaña publicitaria, la cual debe estar centrada en el objetivo ya planteado; dentro de esta fase también hace parte la ejecución de la campaña publicitaria.
+          p Con la ayuda de las agencias de <em>marketing</em> o equipo de <em>marketing</em> de la organización, se inicia con el diseño de la campaña publicitaria, la cual debe estar centrada en el objetivo ya planteado; dentro de esta fase también hace parte la ejecución de la campaña publicitaria.
       
       .row(titulo="05")
         .col-lg-2.mb-2

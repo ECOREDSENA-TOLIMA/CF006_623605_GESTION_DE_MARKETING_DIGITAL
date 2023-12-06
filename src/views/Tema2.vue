@@ -16,7 +16,7 @@
         img(src='@/assets/curso/temas/tema2/img-1.png').mb-0
         .tarjeta--azul.p-4(style="background-color: #E4FDFB")
           h3 Planeación estratégica 
-          p Planificar el futuro, por lo cual aquí se crea la visión de lo que se desea lograr, acorde al entorno externo e interno e identificando las necesidades de los consumidores; Realizar estudio de mercado y definir la visión, objetivos y metas. 
+          p Planificar el futuro, por lo cual aquí se crea la visión de lo que se desea lograr, acorde al entorno externo e interno e identificando las necesidades de los consumidores; realizar estudio de mercado y definir la visión, objetivos y metas. 
       
       .col-4.col-ipad.mb-4
         img(src='@/assets/curso/temas/tema2/img-2.png').mb-0
@@ -66,7 +66,7 @@
 
     .row.mb-5
       .col-md-7
-        p En el ámbito del marketing digital y la publicidad, el objetivo primordial es comunicar y transmitir un mensaje que resalte las características y beneficios de un producto o servicio. Este mensaje debe ser concebido de manera creativa e innovadora, lo que posibilitará cautivar al consumidor.
+        p En el ámbito del <em>marketing</em> digital y la publicidad, el objetivo primordial es comunicar y transmitir un mensaje que resalte las características y beneficios de un producto o servicio. Este mensaje debe ser concebido de manera creativa e innovadora, lo que posibilitará cautivar al consumidor.
         p El principal objetivo de la estrategia creativa es fortalecer la comunicación entre la organización, la marca y los consumidores, logrando que el retorno de la inversión en la campaña publicitaria, sea la esperada; por lo tanto es fundamental basar las campañas en la planeación estratégica y táctica,  debido a que estas permiten identificar la visión que tiene la empresa a largo y mediano plazo; y de esta forma poder implementar la estrategia operativa, mediante proyectos de campañas publicitarias que permita lograr los objetivos y metas a corto plazo. 
 
       .col-md-5
@@ -252,7 +252,7 @@
               img(src='@/assets/curso/temas/tema2/img-17.png', alt='Texto que describa la imagen')
 
           .col-md-6
-            p Sin lugar a duda, el marketing ha sufrido grandes cambios con la nueva era digital, las organizaciones han innovado constantemente, para estar presente en los medios digitales y ganar esta porción del mercado. 
+            p Sin lugar a duda, el <em>marketing</em> ha sufrido grandes cambios con la nueva era digital, las organizaciones han innovado constantemente, para estar presente en los medios digitales y ganar esta porción del mercado. 
       
       .py-3.py-md-4(titulo="Innovación organizacional")
         .row

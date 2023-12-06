@@ -123,7 +123,7 @@
     Separador 
 
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.3  Pasos para definir el insight
+      h2 4.3  Pasos para definir el <em>insight</em>
 
     .row.mb-5
       .col-md-2.mb-3
@@ -151,7 +151,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema4/img-11.svg' alt='AvatarTop')
-          p <strong>Motivo:</strong> el principal objetivo del insight es determinar qué motiva al consumidor, que es eso interno que lo lleva a adquirir determinado producto, servicio o marca; por lo cual se debe indagar sobre las áreas emocionales, psicológicas, fisiológicas; lo que le frustra y desea resolver internamente.
+          p <strong>Motivo:</strong> el principal objetivo del <em>insight</em> es determinar qué motiva al consumidor, que es eso interno que lo lleva a adquirir determinado producto, servicio o marca; por lo cual se debe indagar sobre las áreas emocionales, psicológicas, fisiológicas; lo que le frustra y desea resolver internamente.
 
         .tarjeta.color-primario.p-4.col-ipad(style="background-color:#FFFBE5")
           .row.justify-content-center.mb-3

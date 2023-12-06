@@ -200,7 +200,7 @@ export default {
     },
     {
       tema:
-        'La publicidad en la era digital: el microsite como factor estratégico de las campañas publicitarias on-line',
+        'La publicidad en la era digital: el <em>microsite</em> como factor estratégico de las campañas publicitarias <em>on-line</em>',
       referencia:
         'Romero-Calmache, M., & Fanjul-Peyró, C. (2010). Advertising in the digital age: The microsite as a strategic factor in on-line advertising campaigns. Comunicar, 17(34), 125-134.',
       tipo: 'Libro',
@@ -244,11 +244,11 @@ export default {
       significado: 'Comunidad de personas que se forman en internet.',
     },
     {
-      termino: 'Sitio Web',
-      significado: 'Conjunto de páginas web',
+      termino: 'Sitio <em>Web</em>',
+      significado: 'Conjunto de páginas <em>web</em>',
     },
     {
-      termino: 'Search Engine Marketing (SEM)',
+      termino: '<em>Search Engine Marketing</em> (SEM)',
       significado:
         'Es el conjunto de estrategia para implementar publicidad en motores de búsqueda.',
     },
@@ -256,12 +256,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Méndez, Jorge. (22 de mayo de 2016). Brief o Briefing de marketing - Qué es y cómo hacer uno. YouTube.',
+        'Méndez, Jorge. (22 de mayo de 2016). <em>Brief</em> o <em>Briefing</em> de <em>marketing</em> - Qué es y cómo hacer uno. YouTube.',
       link: 'https://www.youtube.com/watch?v=6vlN4DZVQGc',
     },
     {
       referencia:
-        'Moschini, S., & Di, N. (s/f). Claves del marketing digital. Edu.mx. Recuperado el 15 de agosto de 2022, de',
+        'Moschini, S., & Di, N. (s/f). Claves del <em>marketing</em> digital. Edu.mx. Recuperado el 15 de agosto de 2022, de',
       link:
         'https://www.ceut.edu.mx/Biblioteca/books/Administraci%C3%B3n-2/Claves-del-Marketing-Digital.pdf',
     },
