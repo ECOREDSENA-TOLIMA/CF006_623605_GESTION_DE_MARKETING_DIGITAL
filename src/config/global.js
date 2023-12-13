@@ -297,17 +297,12 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Andrea Carolina Vargas Serrato',
+          nombre: 'María Alejandra Tovar Bernal',
           cargo: 'Experto Temático',
           centro: 'Regional Tolima - Centro de Industria y la Información',
         },
         {
           nombre: 'Adriana López',
-          cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Leydy Jhuliana Jaramillo Mejía',
           cargo: 'Diseñadora Instruccional',
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
@@ -323,8 +318,8 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Corrector de Estilo',
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrección de Estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
@@ -343,7 +338,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Andrés Felipe Herrera Roldán',
+          nombre: 'José Yobani Penagos Mora',
           cargo: 'Diseñador web',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
