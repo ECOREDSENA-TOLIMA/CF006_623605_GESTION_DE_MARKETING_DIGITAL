@@ -245,7 +245,7 @@
           .col-md-6
             p Se relacionan con las áreas funcionales de las organizaciones, las cuales van desde la búsqueda de proveedores, fabricación de productos, prestación de un servicio o los medios logísticos de distribución.  Un claro ejemplo es el servicio de atención al cliente, el cual ha evolucionado de la atención personal a la inteligencia artificial.  
 
-      .py-3.py-md-4(titulo="Innovación de marketing")
+      .py-3.py-md-4(titulo="Innovación de <em>marketing</em>")
         .row
           .col-md-6.mb-4.mb-md-0
             figure
