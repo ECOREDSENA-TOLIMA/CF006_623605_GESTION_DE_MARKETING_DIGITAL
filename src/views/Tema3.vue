@@ -22,7 +22,7 @@
 
     .row.mb-5
       .col-md-7
-        p Dentro de las estrategias de <em>marketing,</em> se incluyen las campañas publicitarias, las cuales tienen como objetivo principal dar a conocer productos, servicios o marcas. Estas campañas pueden utilizar medios tradicionales, como la radio, el periódico y la televisión, así como también medios digitales, como las redes sociales, sitios <em>web</em> y el correo electrónico, entre otros.
+        p Dentro de las estrategias de <em>marketing,</em> se incluyen las campañas publicitarias, las cuales tienen como objetivo principal dar a conocer productos, servicios o marcas. Estas campañas pueden utilizar medios tradicionales, como la radio, el periódico y la televisión, así como también medios digitales, como las redes sociales, sitios web y el correo electrónico, entre otros.
         p Por ende, se puede definir la campaña publicitaria digital como la estrategia de <em>marketing,</em> que busca dar a conocer un producto, servicio o marca, en medios digitales. 
         p Con el fin de ampliar el concepto de la campaña publicitaria y los aspectos relevantes en la consolidación de la misma, en el siguiente video se detallan elementos de valor para la adecuada estructuración de esta estrategia. 
  
@@ -65,7 +65,7 @@
           ul.lista-ul.mb-3
             li.mb-3
               i.fas.fa-circle(style="color:#000")
-              | <strong>Contexto y desafíos:</strong> Inicia delineando el contexto del mercado y los desafíos que enfrenta la marca. Comprender la situación actual es crucial para desarrollar estrategias efectivas. 
+              | <strong>Contexto y desafíos:</strong> inicia delineando el contexto del mercado y los desafíos que enfrenta la marca. Comprender la situación actual es crucial para desarrollar estrategias efectivas. 
             li.mb-3
               i.fas.fa-circle(style="color:#000")
               | <strong>Objetivos de la campaña:</strong> definir de manera clara y medible los objetivos que la campaña publicitaria busca alcanzar. Estos pueden incluir aumento de ventas, reconocimiento de marca o participación en redes sociales. 
@@ -80,13 +80,13 @@
               | <strong>Mensaje clave:</strong> define el mensaje central que se desea transmitir. Este debe ser claro, memorable y alineado con la identidad de la marca. 
             li.mb-3
               i.fas.fa-circle(style="color:#000")
-              | <strong>Medios y canales:</strong> Especifique los canales de distribución y los medios publicitarios que se utilizarán. Considere la relevancia de las plataformas digitales, tradicionales y sociales. 
+              | <strong>Medios y canales:</strong> especifique los canales de distribución y los medios publicitarios que se utilizarán. Considere la relevancia de las plataformas digitales, tradicionales y sociales. 
             li.mb-3
               i.fas.fa-circle(style="color:#000")
               | <strong>Presupuesto y cronograma:</strong> establece los recursos financieros disponibles y distribuye el presupuesto entre las diferentes actividades. Un cronograma detallado garantiza una ejecución eficiente. 
             li.mb-3
               i.fas.fa-circle(style="color:#000")
-              | <strong>Evaluación y métricas:</strong> Define los indicadores clave de rendimiento que se utilizarán para medir el éxito de la campaña. Esto facilita el análisis y la adaptación de estrategias según los resultados obtenidos. 
+              | <strong>Evaluación y métricas:</strong> define los indicadores clave de rendimiento que se utilizarán para medir el éxito de la campaña. Esto facilita el análisis y la adaptación de estrategias según los resultados obtenidos. 
             li.mb-3
               i.fas.fa-circle(style="color:#000")
               | <strong>Aprobaciones y responsabilidades:</strong> especifica los roles y responsabilidades dentro del equipo. Además, asegura que el <em>brief</em> sea aprobado por todas las partes relevantes antes de iniciar la campaña.
@@ -211,7 +211,7 @@
               img(src='@/assets/curso/temas/tema3/decorador-4.svg', alt='Texto que describa la imagen')
           
         h3.text-center Objetivo general
-        p Impulsar la marca “XXXX” de la empresa “XXXX” mediante la creación de una campaña publicitaria para aumentar en 10% las ventas.
+        p Impulsar la marca “XXXX” de la empresa “XXXX” mediante la creación de una campaña publicitaria para aumentar en 10 % las ventas.
 
       .col-md.tarjeta.color-secundario.p-5(style="background-color:#FFFBE5")
         .row.justify-content-center.mb-4
@@ -243,7 +243,7 @@
           .col-lg-12
             .cajon.color-primario.p-4.mb-4(style="background-color:#E3ECF7")
               p Dentro de los medios de comunicación digital, se encuentran los medios pagados y los medios propios. Los medios pagados, como lo indica se debe realizar pagos en las diferentes plataformas digitales, para realizar publicidad; en cuanto a los medios propios, se obtiene gracias al trabajo realizado por las organizaciones y la reputación que ha alcanzado en los medios digitales. 
-              p Dentro de estos medios se encuentran las redes sociales, sitios <em>web, email,</em> videos, <em>streaming,</em> video juegos, realidad virtual y aumentada.
+              p Dentro de estos medios se encuentran las redes sociales, sitios web, <em>email,</em> videos, <em>streaming,</em> video juegos, realidad virtual y aumentada.
 
     p Los medios de comunicación digital como factor clave para la implementación de las campañas publicitarias, beneficia a las organizaciones debido a que permite mantener una interacción con los consumidores digitales y los costos-beneficios son menores a los medios de comunicación tradicional, como también la flexibilidad, debido a que permite realizar cambios y/o modificaciones. 
     p.mb-5 Otro de los factores claves que se deben de tener presente en el <em>marketing,</em> es la implementación del comercio electrónico, los derechos de autor y la regulación normativa.  En la siguiente línea de tiempo se amplía la normativa propia de este tipo de estrategias:
@@ -292,7 +292,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Publicidad nativa digital o <em>native advertising</em>
-            p Es el contenido digital de <em>marketing,</em> que se publicita en plataformas digitales que no son de su propiedad, es decir es un medio pagado; sin embargo, la característica principal de esta publicidad, es el diseño publicitario, debido a que este se adapta al entorno del sitio <em>web</em> en el cual se está publicitando. 
+            p Es el contenido digital de <em>marketing,</em> que se publicita en plataformas digitales que no son de su propiedad, es decir es un medio pagado; sin embargo, la característica principal de esta publicidad, es el diseño publicitario, debido a que este se adapta al entorno del sitio web en el cual se está publicitando. 
 
           .col-md-6.col-ipad
             figure
@@ -328,7 +328,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Search Engine Marketing</em> (SEM) o <em>marketing</em> en buscadores
-            p Es la táctica publicitaria realizada en buscadores, en la cual se pretende que un sitio <em>web</em> o página <em>web,</em> sea más visible para los consumidores, cuando ellos realizan búsquedas.
+            p Es la táctica publicitaria realizada en buscadores, en la cual se pretende que un sitio web o página web, sea más visible para los consumidores, cuando ellos realizan búsquedas.
 
           .col-md-6.col-ipad
             figure

@@ -33,7 +33,7 @@
               img(src='@/assets/curso/temas/tema1/decorador-2.svg', alt='Texto que describa la imagen')
           
         h3.text-center Publicidad digital
-        p Es la comunicación de productos, servicios o marcas a través de los medios de comunicación modernos o digitales como lo son las redes sociales, plataforma de videos, <em>email,</em> sitios <em>web</em> entre otros.
+        p Es la comunicación de productos, servicios o marcas a través de los medios de comunicación modernos o digitales como lo son las redes sociales, plataforma de videos, <em>email,</em> sitios web entre otros.
 
     p.mb-4 Estos medios se diferencian debido a la flexibilidad y la precisión; en cuanto a la flexibilidad la publicidad digital requiere menos tiempo que la tradicional; los medios tradicionales requieren mayor tiempo de producción y distribución. Respecto a la precisión los medios digitales, permiten llegar de forma oportuna a la audiencia, no solo por la usabilidad de los mismos sino también pueden llegar a cualquier tipo de población.
 
@@ -46,7 +46,7 @@
                 img(src='@/assets/curso/temas/tema1/decorador-3.svg', alt='Texto que describa la imagen')
             .col-lg-7
               p Los costos de presupuesto para una campaña publicitaria digital, pueden ser menores que la realizada por un medio tradicional; siempre y cuando esta no sea de gran complejidad.
-              p La publicidad digital, se ha convertido en una de las estrategias más empleadas por el <em>marketing</em> digital; debido al acceso que tienen las personas, en la actualidad a los medios digitales; la hiperconectividad cada día es mayor; de acuerdo a datos del banco mundial al año 2020, el 60% de la población mundial usa <em>internet</em> (Banco Mundial, 2020)
+              p La publicidad digital, se ha convertido en una de las estrategias más empleadas por el <em>marketing</em> digital; debido al acceso que tienen las personas, en la actualidad a los medios digitales; la hiperconectividad cada día es mayor; de acuerdo a datos del banco mundial al año 2020, el 60 % de la población mundial usa <em>internet</em> (Banco Mundial, 2020)
     
     p.mb-5 El siguiente video se presenta para ampliar conceptos básicos sobre la publicidad digital y la comunicación en el <em>marketing</em> digital así:
 
@@ -111,7 +111,7 @@
         .row(titulo="Estrategia")
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Estrategia
-            p En primer lugar, las redes sociales por la cercanía con el público, comentarios, calificaciones, análisis del <em>Buyer</em> persona, el uso de textos, imágenes, audios o videos y los horarios de mayor impacto. La segunda estrategia integra los sitios <em>web</em> en donde los buscadores mediante palabras claves permiten que el contenido digital aparezca en el momento en que el consumidor requiera adquirir un producto o servicio, en este se incluyen los <em>banners.</em> La tercera son los sitios <em>web</em> especializados, focalizando el mercado objetivo. La cuarta es el <em>Email de marketing,</em> que se realiza especialmente con los consumidores que están suscritos a la marca.
+            p En primer lugar, las redes sociales por la cercanía con el público, comentarios, calificaciones, análisis del <em>Buyer</em> persona, el uso de textos, imágenes, audios o videos y los horarios de mayor impacto. La segunda estrategia integra los sitios web en donde los buscadores mediante palabras claves permiten que el contenido digital aparezca en el momento en que el consumidor requiera adquirir un producto o servicio, en este se incluyen los <em>banners.</em> La tercera son los sitios web especializados, focalizando el mercado objetivo. La cuarta es el <em>Email de marketing,</em> que se realiza especialmente con los consumidores que están suscritos a la marca.
           
           .col-md-6.col-ipad
             figure
@@ -279,14 +279,14 @@ export default {
       {
         titulo: 'La publicidad de <em>display</em>',
         texto:
-          'La publicidad digital que emplea los <em>displays,</em> son <em>banners</em> que aparecen en las páginas <em>web,</em> los cuales contienen textos, audios, imágenes, videos; estos <em>Benner</em> aparecen ubicados en la parte superior o lateral de las páginas <em>web.</em> Por lo general para desarrollar este tipo de publicidad digital se apoya en Google Adsense.',
+          'La publicidad digital que emplea los <em>displays,</em> son <em>banners</em> que aparecen en las páginas web, los cuales contienen textos, audios, imágenes, videos; estos <em>Banner</em> aparecen ubicados en la parte superior o lateral de las páginas web. Por lo general para desarrollar este tipo de publicidad digital se apoya en Google Adsense.',
         imagen: require('@/assets/curso/temas/tema1/img-3.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Publicidad de video en línea',
         texto:
-          'Como el nombre lo indica es publicidad digital que se realiza en forma de videos; sin embargo, se encuentran dos tipos de videos publicitarios los videos <em>out stream,</em> los cuales aparecen en las páginas <em>web</em> en forma de <em>banner;</em> y los videos <em>in stream,</em> aparecen en los reproductores de videos.',
+          'Como el nombre lo indica es publicidad digital que se realiza en forma de videos; sin embargo, se encuentran dos tipos de videos publicitarios los videos <em>out stream,</em> los cuales aparecen en las páginas web en forma de <em>banner;</em> y los videos <em>in stream,</em> aparecen en los reproductores de videos.',
         imagen: require('@/assets/curso/temas/tema1/img-4.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
