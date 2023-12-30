@@ -257,13 +257,18 @@ export default {
     {
       referencia:
         'Méndez, Jorge. (22 de mayo de 2016). <em>Brief</em> o <em>Briefing</em> de <em>marketing</em> - Qué es y cómo hacer uno. YouTube.',
-      link: 'https://www.youtube.com/watch?v=6vlN4DZVQGc',
+      link: 'https://youtu.be/6vlN4DZVQGc?si=9580HkYBZbru8OAm',
     },
     {
       referencia:
         'Moschini, S., & Di, N. (s/f). Claves del <em>marketing</em> digital. Edu.mx. Recuperado el 15 de agosto de 2022, de',
       link:
         'https://www.ceut.edu.mx/Biblioteca/books/Administraci%C3%B3n-2/Claves-del-Marketing-Digital.pdf',
+    },
+    {
+      referencia:
+        'Núñez Gómez, P., & Ruiz San Román, J. A. (2021). Presencia de influencers en campañas publicitarias digitales. Estudio de su capacidad persuasiva y efectividad en jóvenes. Universidad Complutense de Madrid.',
+      link: '',
     },
     {
       referencia:
@@ -275,6 +280,11 @@ export default {
       referencia:
         'Romero-Calmache, M., & Fanjul-Peyró, C. (2010). Advertising in the digital age: The microsite as a strategic factor in on-line advertising campaigns. Comunicar, 17(34), 125-134.',
       link: 'https://doi.org/10.3916/c34-2010-03-12',
+    },
+    {
+      referencia:
+        'Organización para la Cooperación y el Desarrollo Económicos. (2018). Manual de Oslo: Directrices para la recopilación e interpretación de datos sobre innovación (3ra ed.). Recuperado de',
+      link: 'https://www.evalueconsultores.com/tipos-innovacion-manual-oslo/',
     },
   ],
   creditos: [

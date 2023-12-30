@@ -225,7 +225,7 @@
         p Ejecutar la campaña publicitaria en los canales digitales en los próximos seis (6) meses. 
         p Evaluar la campaña publicitaria de la nueva marca en un (1) año 
 
-    p Es fundamental definir el objetivo general de la campaña publicitaria mediante una estructura que contempla un verbo en infinitivo. Este objetivo debe indicar qué se desea impulsar o promover con la campaña, cómo se planea lograrlo y cuál es el propósito final de la campaña.
+    p Una vez establecido el objetivo general, es necesario detallar objetivos específicos que contribuyan a su consecución. Estos objetivos específicos describen en detalle los logros concretos que ayudarán a cumplir el objetivo general. 
     p.mb-5 En cuanto al objetivo específico, el cual se traduce como metas a lograr el objetivo general; debe especificar cómo se va a lograr y el que tiempo se va a lograr. 
 
     Separador 
