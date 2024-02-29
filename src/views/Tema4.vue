@@ -17,7 +17,7 @@
             p.mb-0 En la era digital que envuelve a personas y organizaciones, se ha logrado acortar distancias gracias a los medios de comunicación y la rápida transmisión de información. No obstante, esta era también ha llevado a una paradoja, a pesar de la abundancia de conexiones virtuales a través de redes sociales y otras plataformas en línea, las personas han experimentado una pérdida de contacto físico y, por ende, se sienten más distantes.
               br
               br
-              | En el ámbito del <em>marketing</em> digital, existe una palabra que va más allá de ser simplemente un término; es una estrategia que busca establecer conexiones significativas entre las organizaciones o marcas y los consumidores. Esta palabra es <em>'insight'.</em> Se trata de investigar y comprender internamente los sentimientos de los consumidores.
+              | En el ámbito del <em>marketing</em> digital, existe una palabra que va más allá de ser simplemente un término; es una estrategia que busca establecer conexiones significativas entre las organizaciones o marcas y los consumidores. Esta palabra es <em>'insight',</em> se trata de investigar y comprender internamente los sentimientos de los consumidores.
 
     p El <em>insight,</em> al captar los sentimientos o creencias de los consumidores, se convierte en una motivación que influye en sus acciones. Esto permite a las organizaciones desarrollar políticas de <em>marketing</em> y campañas publicitarias digitales alineadas con los sentimientos, opiniones y expectativas de los consumidores. De esta manera, se estimula la adquisición de productos o servicios.
     p.mb-5 Se encuentran diferentes tipos de <em>insights,</em> los cuales son: 

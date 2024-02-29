@@ -256,6 +256,16 @@ export default {
   referencias: [
     {
       referencia:
+        'Banco Mundial. (s/f). Personas que usan Internet (% de la población). Recuperado el 17 de agosto de 2022, de ',
+      link: 'https://datos.bancomundial.org/indicator/IT.NET.USER.ZS',
+    },
+    {
+      referencia:
+        'Indra. (s/f). Innovación. En Manual de Oslo (1997). Recuperado de ',
+      link: 'https://www.indracompany.com/es/blogneo/innovacion',
+    },
+    {
+      referencia:
         'Méndez, Jorge. (22 de mayo de 2016). <em>Brief</em> o <em>Briefing</em> de <em>marketing</em> - Qué es y cómo hacer uno. YouTube.',
       link: 'https://youtu.be/6vlN4DZVQGc?si=9580HkYBZbru8OAm',
     },
@@ -272,20 +282,14 @@ export default {
     },
     {
       referencia:
-        'Personas que usan Internet (% de la población). (s/f). Bancomundial.org. Recuperado el 17 de agosto de 2022.',
-      link:
-        'https://datos.bancomundial.org/indicator/IT.NET.USER.ZS?end=2020&start=1960&view=chart',
-    },
-    {
-      referencia:
         'Romero-Calmache, M., & Fanjul-Peyró, C. (2010). Advertising in the digital age: The microsite as a strategic factor in on-line advertising campaigns. Comunicar, 17(34), 125-134.',
       link: 'https://doi.org/10.3916/c34-2010-03-12',
     },
-    {
-      referencia:
-        'Organización para la Cooperación y el Desarrollo Económicos. (2018). Manual de Oslo: Directrices para la recopilación e interpretación de datos sobre innovación (3ra ed.). Recuperado de',
-      link: 'https://www.evalueconsultores.com/tipos-innovacion-manual-oslo/',
-    },
+    // {
+    //   referencia:
+    //     'Organización para la Cooperación y el Desarrollo Económicos. (2018). Manual de Oslo: Directrices para la recopilación e interpretación de datos sobre innovación (3ra ed.). Recuperado de',
+    //   link: 'https://www.evalueconsultores.com/tipos-innovacion-manual-oslo/',
+    // },
   ],
   creditos: [
     {

@@ -32,7 +32,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/U2juCftBrTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/wAFbFTIW-8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador 
 
@@ -102,13 +102,13 @@
                 .col.mb-3.mb-sm-0
                   //- h3.mb-1 Formato acta general inspección sanitaria
                   h3 <em>Brief o Briefing de marketing</em> - Qué es y cómo hacer uno
-                  p.text-small Para profundizar en la temática se sugiere ver el siguiente video
+                  p.text-small Para profundizar en la temática se sugiere examinar el siguiente video
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=6vlN4DZVQGc" target="_blank")
                     span Abrir video
                     i.fas.fa-file-video
 
-    p.mb-5 Existen diferentes tipos de briefings, los cuales se detallan a continuación: 
+    p.mb-5 Existen diferentes tipos de <em>briefings</em>, los cuales se detallan a continuación: 
 
     .row.mb-5
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -220,12 +220,12 @@
               img(src='@/assets/curso/temas/tema3/decorador-5.svg', alt='Texto que describa la imagen')
           
         h3.text-center Objetivos específicos
-        p Crear un <em>brief</em> publicitario para la nueva marca en los próximos dos (2) meses
-        p Crear del proyecto de campaña publicitara en los próximos cinco (5) meses 
+        p Crear un <em>brief</em> publicitario para la nueva marca en los próximos dos (2) meses.
+        p Crear del proyecto de campaña publicitara en los próximos cinco (5) meses.
         p Ejecutar la campaña publicitaria en los canales digitales en los próximos seis (6) meses. 
-        p Evaluar la campaña publicitaria de la nueva marca en un (1) año 
+        p Evaluar la campaña publicitaria de la nueva marca en un (1) año.
 
-    p Una vez establecido el objetivo general, es necesario detallar objetivos específicos que contribuyan a su consecución. Estos objetivos específicos describen en detalle los logros concretos que ayudarán a cumplir el objetivo general. 
+    p Los objetivos generales deben de guardar una estructura la cual es la construcción en un verbo infinitivo, que se desea impulsar o promover con la campaña, como se va a lograr y cuál es el fin de la campaña.
     p.mb-5 En cuanto al objetivo específico, el cual se traduce como metas a lograr el objetivo general; debe especificar cómo se va a lograr y el que tiempo se va a lograr. 
 
     Separador 
@@ -310,7 +310,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Social ads</em>
-            p Es el empleo de las redes sociales con fines publicitarios dentro de las cuales se encuentran Facebook <em>ads,</em> Instagram <em>ads,</em> X <em>ads,</em> YouTube <em>ads,</em> Snapchat <em>Ads,</em> Pinterest <em>ads,</em> LinkedIn <em>ads;</em> estas redes sociales permiten publicitar en sus espacios contenido digital como imágenes, textos, videos, audios. 
+            p Es el empleo de las redes sociales con fines publicitarios dentro de las cuales se encuentran Facebook ads, Instagram ads, X ads, YouTube ads, Snapchat ads, Pinterest ads, LinkedIn ads; estas redes sociales permiten publicitar en sus espacios contenido digital como imágenes, textos, videos, audios. 
 
           .col-md-6.col-ipad
             figure
@@ -348,7 +348,7 @@
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.5  Etapas
 
-    p.mb-5 En todo proceso estratégico de planeación dentro de las organizaciones, se deben seguir unos parámetros para que sean realizables; las campañas publicitarias en medio digitales, no están ajenas a ello, debido a que se deben de pasar por unas etapas o fases en su proceso de creación, con la finalidad de lograr su objetivo. La creación de las campañas publicitaria dependerá del plan de <em>marketing online</em> y de los objetivos trazados por la organización; por lo cual se deben seguir las siguientes etapas: 
+    p.mb-5 En todo proceso estratégico de planeación dentro de las organizaciones, se deben seguir unos parámetros para que sean realizables; las campañas publicitarias en medio digitales, no están ajenas a ello, debido a que se deben de pasar por unas etapas o fases en su proceso de creación, con la finalidad de lograr su objetivo. La creación de las campañas publicitarias dependerá del plan de <em>marketing online</em> y de los objetivos trazados por la organización; por lo cual se deben seguir las siguientes etapas: 
 
     LineaTiempoE.color-primario
       .row(titulo="01")
@@ -415,7 +415,7 @@ export default {
       },
       {
         titulo:
-          'Ley 480 de 2011 Capítulo VI: Protección al consumidor de comercio electrónico',
+          'Ley 480 de 2011 Capítulo VI: protección al consumidor de comercio electrónico',
         texto:
           'Esta ley tiene como objetivo proteger, promover y garantizar la efectividad y el libre ejercicio de los derechos de los consumidores, así como amparar el respeto a su dignidad y a sus intereses económicos.',
         icono: require('@/assets/curso/temas/tema3/img-8.svg'),

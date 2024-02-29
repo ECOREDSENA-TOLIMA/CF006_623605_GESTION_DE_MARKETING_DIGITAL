@@ -88,7 +88,7 @@
           br
           | Cada día las organizaciones deben de estar en constante cambio, debido a que así lo exige el mercado.  Los consumidores, la competencia, la tecnología y la comunicación, han acelerado estos cambios; por lo cual los equipos de trabajo deben de ser creativos para dar solución a los retos que enfrentan las organizaciones. 
 
-    p.mb-5 Las técnicas creativas, permiten a los equipos de trabajo dar solución a las necesidades de las organizaciones de forma creativa e ingeniosa, mediante la generación de ideas, lo que permite potencializar los resultados. Estas técnicas creativas se enfocan en: 
+    p.mb-5 Las técnicas creativas, permiten a los equipos de trabajo dar solución a las necesidades de las organizaciones de forma creativa e ingeniosa, mediante la generación de ideas, lo que permite potencializar los resultados; por lo cual estas técnicas creativas se enfocan en: 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
@@ -292,22 +292,22 @@
               ul.lista-ul.mb-3
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | Sucesos que ocurren de sorpresa como consecuencia del éxito    o también del fracaso 
+                  | Sucesos que ocurren de sorpresa como consecuencia del éxito o también del fracaso.
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | Inconvenientes 
+                  | Inconvenientes.
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | Necesidad de cambios en procesos o procedimientos
+                  | Necesidad de cambios en procesos o procedimientos.
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | Cambios en la industria
+                  | Cambios en la industria.
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | Cambios en los consumidores
+                  | Cambios en los consumidores.
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | Nuevos avances en la ciencia o tecnología
+                  | Nuevos avances en la ciencia o tecnología.
 
 
 
