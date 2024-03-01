@@ -118,7 +118,7 @@
           .col-lg-12  
             .cajon.color-primario.p-4.mb-4(style="background-color:#E3ECF7")
               p El <em>insight</em> es de gran importancia al ser implementado en las estrategias de <em>marketing</em> digital, debido a que permite lograr el éxito en cada una de las campañas publicitarias, al permitir lograr los objetivos principales los cuales son incentivar el consumo y fidelizar a los consumidores a una marca. 
-        p El emplear esta estrategia en el <em>marketing,</em> es grantía de éxito, debido a que permite descubrir el pensamiento y sentimiento más profundo de los consumidores, esto que no es tan visible y evidente en un estudio de mercado o en la cotidianidad de las personas. Descubrir lo que realmente motiva al consumidor establece la carta de navegación de las organizaciones y como se debe enfocar las estrategias de <em>marketing.</em> 
+        p El emplear esta estrategia en el <em>marketing,</em> es garantía de éxito, debido a que permite descubrir el pensamiento y sentimiento más profundo de los consumidores, esto que no es tan visible y evidente en un estudio de mercado o en la cotidianidad de las personas. Descubrir lo que realmente motiva al consumidor establece la carta de navegación de las organizaciones y como se debe enfocar las estrategias de <em>marketing.</em> 
 
     Separador 
 
