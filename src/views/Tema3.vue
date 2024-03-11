@@ -198,7 +198,7 @@
         p.mb-0 Las campañas publicitarias persiguen un objetivo específico establecido por la organización, y su éxito dependerá en gran medida de que este objetivo sea claro, comprensible y medible. Estos objetivos deben alinearse con la planificación estratégica y táctica de la empresa.
           br
           br
-          | Es crucial definir el objetivo general de la campaña publicitaria, que puede incluir dar a conocer un producto o servicio, impulsar una nueva marca o captar nuevos consumidores, entre otros propósitos que la organización pretende lograr.
+          | Es fundamental definir el objetivo general de la campaña publicitaria, que puede incluir dar a conocer un producto o servicio, impulsar una nueva marca o captar nuevos consumidores, entre otros propósitos que la organización pretende lograr.
 
     p Una vez establecido el objetivo general, es necesario detallar objetivos específicos que contribuyan a su consecución. Estos objetivos específicos describen en detalle los logros concretos que ayudarán a cumplir el objetivo general.
     p.mb-5 Por ejemplo, el objetivo general y específico de una campaña publicitaria puede ser: 
