@@ -52,7 +52,7 @@
     
     .row.justify-content-center.align-items-center.mb-3
       .col-10(data-aos="fade-down-right")
-        p Al emplear el <em>insights</em> en el <em>marketing</em> digital se debe tener presente el lenguaje publicitario que es la forma en la cual se transmite el mensaje a través de las campañas, de este mensaje no solo está compuesto, por un texto, también hace parte el diseño, imágenes, audios, videos, la historia y todo aquello intrínseco que se está transmitiendo. 
+        p Al emplear el <em>insights</em> en el <em>marketing</em> digital se debe tener presente el lenguaje publicitario que es la forma en la cual se transmite el mensaje a través de las campañas, este mensaje no solo está compuesto, por un texto, también hace parte el diseño, imágenes, audios, videos, la historia y todo aquello intrínseco que se está transmitiendo. 
         p.mb-5 Dentro de las características del lenguaje publicitario se encuentran:
 
         .tarjeta.tarjeta.p-4.mt-4(style="background-color:#FFFBE5")(data-aos="flip-up")

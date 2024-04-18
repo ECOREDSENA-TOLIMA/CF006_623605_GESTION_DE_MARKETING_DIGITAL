@@ -348,7 +348,8 @@
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.5  Etapas
 
-    p.mb-5 En todo proceso estratégico de planeación dentro de las organizaciones, se deben seguir unos parámetros para que sean realizables; las campañas publicitarias en medio digitales, no están ajenas a ello, debido a que se deben de pasar por unas etapas o fases en su proceso de creación, con la finalidad de lograr su objetivo. La creación de las campañas publicitarias dependerá del plan de <em>marketing online</em> y de los objetivos trazados por la organización; por lo cual se deben seguir las siguientes etapas: 
+    p.mb-2 En todo proceso estratégico de planeación dentro de las organizaciones, se deben seguir unos parámetros para que sean realizables; las campañas publicitarias en medio digitales, no están ajenas a ello, debido a que deben pasar por unas etapas o fases en su proceso de creación, con la finalidad de lograr su objetivo. 
+    p.mb-5 La creación de las campañas publicitarias dependerá del plan de <em>marketing online</em> y de los objetivos trazados por la organización; por lo cual se deben seguir las siguientes etapas: 
 
     LineaTiempoE.color-primario
       .row(titulo="01")

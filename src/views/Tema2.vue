@@ -182,7 +182,7 @@
         .tarjeta.tarjeta.p-4(style="background-color:#FFFBE5")(data-aos="flip-up")
           .row.justify-content-center.align-items-center
             p Dinamizar campañas exitosas con el público objetivo adecuado, los medios más efectivos y el equipo estratégico esperado requiere contar con creativos que posean formación y comprensión sobre el impacto del arte en los seres humanos. Es por esta razón que se enfatiza en el concepto de la teoría del arte, que se encarga de estudiar las manifestaciones artisticas. Esta teoría proporciona un análisis crítico de las obras, así como su interpretación de acuerdo a lo que el autor ha querido expresar. Estas interpretaciones o puntos críticos que surgen de las obras adquieren significado a través del análisis del contexto en el cual la obra fue desarrollada.
-            p Los contextos en los que se ha gestado una obra le confieren vida, ya que se desarrollan en una época, lugar, cultura y sociedad con características definidas. A lo largo de la historia del arte, han destacado dos épocas significativas: la Edad Media y el Renacimiento.
+            p Los contextos en los que se ha gestado una obra le confieren vida, ya que se desarrollan en una época, lugar, cultura y sociedad, con características definidas. A lo largo de la historia del arte, han destacado dos épocas significativas, la Edad Media y el Renacimiento.
 
     p Durante la Edad Media, que abarca desde el siglo V hasta el siglo XV, se destaca la influencia prominente de la iglesia, la cual financiaba la representación del arte. Durante este período, se mantuvieron las características de la arquitectura romana, pero también se experimentó la influencia del arte gótico.
     p.mb-5 En la época del Renacimiento, que se sitúa en el siglo XIV y representa un período de transición desde la Edad Media hasta la Edad Moderna, se introdujo la pintura al óleo, marcando un desplazamiento de algunas creencias de la iglesia. Entre las principales teorías del arte se encuentran:
@@ -221,7 +221,7 @@
             img(src='@/assets/curso/temas/tema2/decorador-2.svg', alt='')
       .col-md-8
         p En un mundo moderno, envuelto por la era digital, ha obligado a las personas y a las organizaciones, a estar en constante cambio y evolución, por lo cual se han centrado en crear nuevos productos, servicios, marcas, estrategias o mejorar constantemente los existentes, con la finalidad de ir a la par del mundo globalizado, de los consumidores y los competidores.  El no innovar constantemente puede crear rezagos a las organizaciones y las podrían hacer desaparecer; como es el caso de las cámaras fotográficas que fueron reemplazadas por los dispositivos móviles. 
-        p Innovar es utilizar el conocimiento, y generarlo si es necesario, para crear productos, servicios o procesos, que son nuevos para la empresa, o mejorar los ya existentes, consiguiendo con ello tener éxito en el mercado. (Manual de Oslo 1997)
+        p Innovar es utilizar el conocimiento, y generarlo si es necesario, para crear productos, servicios o procesos, que son nuevos para la empresa, o mejorar los ya existentes, consiguiendo con ello tener éxito en el mercado. (Indra. (s/f). Innovación.).
 
     p La innovación hace parte del área de I+D+I que es un sistema que se encarga de gestionar la investigación, el desarrollo tecnológico y la innovación, dentro de las organizaciones. 
     p.mb-5 Se han identificado diferentes tipos de innovación, que se aplican a las organizaciones como se explica a continuación:
